@@ -208,7 +208,7 @@ export default function Home() {
         )}
 
         {copied && (
-          <div className={styles.toast}>{copied} скопирано</div>
+          <div className={styles.toast}>{copied} копиран</div>
         )}
       </main>
     </>
